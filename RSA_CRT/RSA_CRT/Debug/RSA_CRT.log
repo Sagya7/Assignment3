@@ -1,0 +1,6 @@
+﻿  LargeNumber.cpp
+c:\users\swalishe\desktop\rsa_crt\rsa_crt\largenumber.cpp(14): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+c:\users\swalishe\desktop\rsa_crt\rsa_crt\largenumber.cpp(357): warning C4101: 'num': unreferenced local variable
+c:\users\swalishe\desktop\rsa_crt\rsa_crt\largenumber.cpp(1083): warning C4101: 'message': unreferenced local variable
+  RSA_CRT.vcxproj -> C:\Users\SWalishe\Desktop\RSA_CRT\Debug\RSA_CRT.exe
+  RSA_CRT.vcxproj -> C:\Users\SWalishe\Desktop\RSA_CRT\Debug\RSA_CRT.pdb (Partial PDB)
