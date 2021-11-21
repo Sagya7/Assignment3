@@ -1,0 +1,16 @@
+﻿  main.c
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(85): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(88): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'clock_t'
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(70): warning C4101: 'total_t2': unreferenced local variable
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(100): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(103): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'clock_t'
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(124): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(145): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(132): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uint64_t'
+  c:\users\swalishe\desktop\rsa2\rsa2\main.c(132): note: consider using '%lld' in the format string
+  c:\users\swalishe\desktop\rsa2\rsa2\main.c(132): note: consider using '%I64d' in the format string
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(111): warning C4101: 'm': unreferenced local variable
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(108): warning C4101: 'mode': unreferenced local variable
+c:\users\swalishe\desktop\rsa2\rsa2\main.c(111): warning C4101: 'd_int': unreferenced local variable
+  RSA2.vcxproj -> C:\Users\SWalishe\Desktop\RSA2\Debug\RSA2.exe
+  RSA2.vcxproj -> C:\Users\SWalishe\Desktop\RSA2\Debug\RSA2.pdb (Partial PDB)
